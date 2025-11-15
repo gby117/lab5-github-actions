@@ -19,5 +19,5 @@ jobs:
           local_path: './*'
           PORT: 22
           METHOD: sftp
-          remote_path: '/site/IS436/lab5/shiva/'
+          remote_path: '/IS436/lab5/'
           sftp_only: true
